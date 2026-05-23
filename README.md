@@ -19,6 +19,11 @@
 4. 等待 10-20 分钟后访问：
    - `https://你的用户名.github.io/UniIPTV/tv.m3u`
    - `https://你的用户名.github.io/UniIPTV/tv.txt`
+   - `https://gh-proxy.com/https://abc1319.github.io/UniIPTV/tv.m3u`
+   - `https://ghproxy.net/https://abc1319.github.io/UniIPTV/tv.m3u`
+   - `https://ghproxy.homeboyc.cn/https://abc1319.github.io/UniIPTV/tv.m3u`
+   - `http://toolwa.com/github/https://abc1319.github.io/UniIPTV/tv.m3u`
+   - `https://github.akams.cn/https://abc1319.github.io/UniIPTV/tv.m3u`
 
 ## 自定义配置
 
