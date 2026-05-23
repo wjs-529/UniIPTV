@@ -28,6 +28,19 @@
    - `http://toolwa.com/github/https://abc1319.github.io/UniIPTV/tv.m3u`
    - `https://github.akams.cn/https://abc1319.github.io/UniIPTV/tv.m3u`
 
+
+## 加速代理
+   - `https://raw.githubusercontent.com/`
+     
+   - `https://gh-proxy.com/`
+   - ` https://mirror.ghproxy.com/`
+   - `https://ghproxy.net/`
+   - `https://ghproxy.homeboyc.cn/`
+   - `https://ghp.ci/`
+   - `https://gitclone.com/`
+   - `http://toolwa.com/`
+   - `https://github.akams.cn/`
+
 ## 自定义配置
 
 编辑 `src/config.py` 可以：
