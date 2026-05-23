@@ -17,8 +17,8 @@
 2. **启用 GitHub Actions**：仓库 → Actions → 允许工作流
 3. **手动触发首次运行**：Actions → `IPTV 源智能更新与整理` → Run workflow
 4. 等待 10-20 分钟后访问：
-   - `https://你的用户名.github.io/iptv-smart-collector/tv.m3u`
-   - `https://你的用户名.github.io/iptv-smart-collector/tv.txt`
+   - `https://你的用户名.github.io/UniIPTV/tv.m3u`
+   - `https://你的用户名.github.io/UniIPTV/tv.txt`
 
 ## 自定义配置
 
