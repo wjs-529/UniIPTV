@@ -30,8 +30,7 @@
 
 
 ## 加速代理
-   - `https://raw.githubusercontent.com/`
-     
+   - `https://raw.githubusercontent.com/`   
    - `https://gh-proxy.com/`
    - ` https://mirror.ghproxy.com/`
    - `https://ghproxy.net/`
@@ -40,6 +39,24 @@
    - `https://gitclone.com/`
    - `http://toolwa.com/`
    - `https://github.akams.cn/`
+
+
+## 加速代理链接
+https://github.com/ABC1319/UniIPTV/blob/gh-pages/tv.m3u
+https://github.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+
+https://gh-proxy.org/https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+
+https://ghproxy.net/https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+
+
+https://slink.ltd/https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+https://raw.gitmirror.com/ABC1319/UniIPTV/gh-pages/tv.m3u
+https://ghproxy.net/raw.githubusercontent.com/ABC1319/UniIPTV/gh-pages/tv.m3u
 
 ## 自定义配置
 
