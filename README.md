@@ -37,6 +37,7 @@ GitHub Actions 默认每 6 小时运行一次（`0 */6 * * *`），你可以在 
 - 本项目仅用于学习研究，请勿用于商业用途
 - 所有 IPTV 源均来自公开仓库，不保证长期有效
 - ffmpeg 深度验证会增加运行时间，但能有效过滤地理封锁和死链
+- https://cloud.tencent.com/developer/article/2652607 加速说明
 
 ## 致谢
 
