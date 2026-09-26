@@ -2,8 +2,8 @@
 # 央视
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-http://198.204.240.250:82/live/cctv1.m3u8
 http://74.91.26.218:82/live/cctv1hd.m3u8
+http://69.30.245.50/live/cctv1.m3u8
 http://74.91.26.218:82/live/cctv10hd.m3u8
 https://xykt-fix.github.io/play/a02b/index.m3u8
 http://74.91.26.218:82/live/cctv11hd.m3u8
@@ -17,10 +17,10 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://74.91.26.218:82/live/cctv2hd.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790442000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c2fcf6a6f21f907c24d11bd2d2992559&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790463600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b2c9ffda050b6332b137b48659a87b82&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 http://198.204.240.250:82/live/cctv4k.m3u8
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790442000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1768e3399e292d42665f1691f9739046&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-http://198.204.240.250:82/live/cctv6.m3u8
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790463600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-fbc603935a0ace08c4d1cf5aba3571c4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+http://69.30.245.50/live/cctv6.m3u8
 http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 http://74.91.26.218:82/live/cctv7hd.m3u8
 http://74.91.26.218:82/live/cctv8hd.m3u8
@@ -40,11 +40,11 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://74.91.26.218:82/live/cctv1hd.m3u8
 http://74.91.26.218:82/live/cctv12hd.m3u8
-http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
@@ -78,7 +78,8 @@ http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 https://lbs-us1.suprememastertv.com/720p.m3u8
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
@@ -88,18 +89,18 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-http://r.jdshipin.com/Voac4
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-http://r.jdshipin.com/TcKr2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+http://r.jdshipin.com/vSJvl
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-http://110.153.180.106:55555/out_3/index.m3u8
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
+https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
+http://110.153.180.106:55555/out_2/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 http://php.jdshipin.com:8880/xztv.php?id=zy
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 http://120.76.248.139/live/bfgd/4200000122.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -112,16 +113,15 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 http://r.jdshipin.com/WtYt3
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-http://101.66.194.125:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 # 北京
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 http://120.76.248.139/live/bfgd/4200000158.m3u8
 http://120.76.248.139/live/bfgd/4200000153.m3u8
-http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 http://120.76.248.139/live/bfgd/4200000229.m3u8
 http://120.76.248.139/live/bfgd/4200000149.m3u8
@@ -147,7 +147,7 @@ https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 https://event.pull.hebtv.com:443/live/live101.m3u8
 http://1.94.31.214/php/hebei.php?id=hbgg
 http://1.94.31.214/php/hebei.php?id=nmpd
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+http://120.76.248.139/live/bfgd/4200000108.m3u8
 http://1.94.31.214/php/hebei.php?id=sekj
 http://1.94.31.214/php/hebei.php?id=hbys
 http://1.94.31.214/php/hebei.php?id=jjsh
@@ -163,10 +163,12 @@ https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 
 # 山西
 http://60.222.246.220:19433/hls1.m3u8
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 http://live.daningtv.com/aac_dngb/playlist.m3u8
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 
@@ -176,14 +178,14 @@ https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 http://120.76.248.139/live/bfgd/4200000282.m3u8
 https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+http://120.76.248.139/live/bfgd/4200000077.m3u8
 http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 http://120.76.248.139/live/bfgd/4200000070.m3u8
 http://120.76.248.139/live/bfgd/4200000075.m3u8
-http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+http://120.76.248.139/live/bfgd/4200000073.m3u8
 http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+http://120.76.248.139/live/bfgd/4200000610.m3u8
 http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 
 # 吉林
@@ -248,50 +250,42 @@ http://live.wjyanghu.com/live/CH2.m3u8
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 http://8.138.7.223/tv/jsws4k.php
 https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
 http://ls.qingting.fm/live/23797.m3u8
 
 # 浙江
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
@@ -315,19 +309,18 @@ http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b473
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
-https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 
 # 安徽
 http://zbbf2.ahbztv.com/live/418.m3u8
 http://ls.qingting.fm/live/1794199.m3u8
 http://ls.qingting.fm/live/267.m3u8
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
-http://101.66.194.125:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
@@ -394,12 +387,12 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 http://r.jdshipin.com/LiYdg
-https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 http://222.128.55.152:9080/live/dwq.m3u8
 http://183.11.239.36:808/hls/18/index.m3u8
 http://r.jdshipin.com/sE5vO
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 http://8.138.7.223/tv/gzjs.m3u8
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
@@ -408,7 +401,7 @@ https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+http://120.76.248.139/live/bfgd/4200000473.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
@@ -422,7 +415,6 @@ https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
-https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
@@ -497,8 +489,8 @@ https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 
 # 新疆
 http://110.153.180.106:55555/out_3/index.m3u8
-http://110.153.180.106:55555/out_4/index.m3u8
-http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+http://110.153.180.106:55555/out_2/index.m3u8
 https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
@@ -559,6 +551,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
@@ -566,6 +559,7 @@ https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 http://8.138.7.223/tv/shtv.php?id=ly
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 http://61.221.215.25:8800/hls/39/index.m3u8
 https://cdn6.163189.xyz/163189/8tv
@@ -579,9 +573,8 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-http://r.jdshipin.com/snhya
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
@@ -603,6 +596,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 http://183.64.181.25:40023/rongchang01.m3u8
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+http://8.138.7.223/tv/cwjd.php
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 https://stream2.jlntv.cn/ja/sd/live.m3u8
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
@@ -618,9 +612,9 @@ https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 
 # 新闻
@@ -636,7 +630,6 @@ https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 
 # 影视
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 https://stream.hrbtv.net/yspd/playlist.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
